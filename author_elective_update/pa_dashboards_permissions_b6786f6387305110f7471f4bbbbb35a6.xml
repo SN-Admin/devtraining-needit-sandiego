@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions">
+    <pa_dashboards_permissions action="DELETE">
+        <dashboard display_value="NeedIt Application">a7c26f6f87fc1110f7471f4bbbbb354a</dashboard>
+        <delete>false</delete>
+        <group/>
+        <identity>knowledge_admin</identity>
+        <read>true</read>
+        <role display_value="knowledge_admin" name="knowledge_admin">aaa4855d0a0a0b820170399909974b83</role>
+        <sys_class_name>pa_dashboards_permissions</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-26 12:35:46</sys_created_on>
+        <sys_id>b6786f6387305110f7471f4bbbbb35a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>knowledge_admin</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_dashboards_permissions_b6786f6387305110f7471f4bbbbb35a6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-26 12:35:46</sys_updated_on>
+        <type>1</type>
+        <user/>
+        <write>false</write>
+    </pa_dashboards_permissions>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>f27602021befa410c8432f8dee4bcb23</instance_id>
+        <instance_name>dev112153</instance_name>
+        <name>pa_dashboards_permissions_b6786f6387305110f7471f4bbbbb35a6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions"><pa_dashboards_permissions action="INSERT_OR_UPDATE"><dashboard display_value="NeedIt Application">a7c26f6f87fc1110f7471f4bbbbb354a</dashboard><delete>false</delete><group/><identity>knowledge_admin</identity><read>true</read><role display_value="knowledge_admin" name="knowledge_admin">aaa4855d0a0a0b820170399909974b83</role><sys_class_name>pa_dashboards_permissions</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-07-26 12:35:46</sys_created_on><sys_id>b6786f6387305110f7471f4bbbbb35a6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>knowledge_admin</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>pa_dashboards_permissions_b6786f6387305110f7471f4bbbbb35a6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-07-26 12:35:46</sys_updated_on><type>1</type><user/><write>false</write></pa_dashboards_permissions></record_update>]]></payload>
+        <payload_hash>845524135</payload_hash>
+        <record_name>knowledge_admin</record_name>
+        <reverted_from/>
+        <source>9ab7f6a7877c1110f7471f4bbbbb353f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-26 12:35:47</sys_created_on>
+        <sys_id>fe78e7e387305110f7471f4bbbbb358d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1823a8194bd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-26 12:35:47</sys_updated_on>
+        <type>Dashboard Permissions</type>
+        <update_guid>3a78e7e3da305110f03fdaa92a167f8d</update_guid>
+        <update_guid_history>3a78e7e3da305110f03fdaa92a167f8d:845524135</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="knowledge_admin">c2dff76b87705110f7471f4bbbbb35ba</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-26 14:17:51</sys_created_on>
+        <sys_db_object display_value="" name="pa_dashboards_permissions">pa_dashboards_permissions</sys_db_object>
+        <sys_id>17167127a517440a8362a98d8a453b04</sys_id>
+        <sys_metadata>b6786f6387305110f7471f4bbbbb35a6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>knowledge_admin</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>pa_dashboards_permissions_b6786f6387305110f7471f4bbbbb35a6</sys_update_name>
+        <sys_update_version display_value="pa_dashboards_permissions_b6786f6387305110f7471f4bbbbb35a6">fe78e7e387305110f7471f4bbbbb358d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-26 14:17:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
